@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC Test 2", "GC Test 2\GC Test 2.csproj", "{2EE6E737-7BB8-4202-8042-67FF0B61A392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE6E737-7BB8-4202-8042-67FF0B61A392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE6E737-7BB8-4202-8042-67FF0B61A392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE6E737-7BB8-4202-8042-67FF0B61A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE6E737-7BB8-4202-8042-67FF0B61A392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

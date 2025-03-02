@@ -1,0 +1,14 @@
+/Users/amberross/ConsoleApp3/GC Test 2/bin/Debug/net9.0/GC Test 2
+/Users/amberross/ConsoleApp3/GC Test 2/bin/Debug/net9.0/GC Test 2.deps.json
+/Users/amberross/ConsoleApp3/GC Test 2/bin/Debug/net9.0/GC Test 2.runtimeconfig.json
+/Users/amberross/ConsoleApp3/GC Test 2/bin/Debug/net9.0/GC Test 2.dll
+/Users/amberross/ConsoleApp3/GC Test 2/bin/Debug/net9.0/GC Test 2.pdb
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.AssemblyInfoInputs.cache
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.AssemblyInfo.cs
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.csproj.CoreCompileInputs.cache
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.dll
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/refint/GC Test 2.dll
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.pdb
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/GC Test 2.genruntimeconfig.cache
+/Users/amberross/ConsoleApp3/GC Test 2/obj/Debug/net9.0/ref/GC Test 2.dll
