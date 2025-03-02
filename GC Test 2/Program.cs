@@ -14,7 +14,7 @@ internal static class Program
         
         
         Console.WriteLine($"Welcome {name}. Do you want to do the COIN FLIP CHALLENGE? Yes/No");
-        var response = Console.ReadLine()!.Trim().ToLower(); // Normalize input
+        var response = Console.ReadLine()!.Trim().ToLower(); 
 
         if (response != "yes")
         {
