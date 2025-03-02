@@ -8,32 +8,32 @@ internal static class Program
     {
         Console.WriteLine("Welcome to the COIN FLIP CHALLENGE!");
         
-        // Ask for the user's name
+        
         Console.WriteLine("What is your name?");
         var name = Console.ReadLine();
         
-        // Ask if they want to do the challenge
+        
         Console.WriteLine($"Welcome {name}. Do you want to do the COIN FLIP CHALLENGE? Yes/No");
         var response = Console.ReadLine()!.Trim().ToLower(); // Normalize input
 
         if (response != "yes")
         {
             Console.WriteLine($"You are a coward {name}");
-            return; // End the program
+            return; 
         }
 
-        // Start the coin flip challenge
+        
         int score = 0;
         Random random = new Random();
 
-        for (int i = 0; i < 5; i++) // Loop 5 times
+        for (int i = 0; i < 5; i++) 
         {
-            int coinFlip = random.Next(2); // Generates 0 or 1 (0 = Heads, 1 = Tails)
+            int coinFlip = random.Next(2); 
 
             Console.WriteLine("Heads or Tails?");
-            var userGuess = Console.ReadLine()!.Trim().ToLower(); // Normalize input
+            var userGuess = Console.ReadLine()!.Trim().ToLower(); t
             
-            // Convert user input into a comparable number (0 = Heads, 1 = Tails)
+           
             int userChoice = (userGuess == "heads") ? 0 : 1;
 
             if (userChoice == coinFlip)
@@ -47,7 +47,7 @@ internal static class Program
             }
         }
 
-        // End of game: Show final score
+        
         Console.WriteLine($"Thank you {name}. You got a score of {score}!");
     }
 }
